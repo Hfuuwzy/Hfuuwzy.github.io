@@ -1,0 +1,25 @@
+/* 主页所有文章页面背景 */
+#aside_content .card-widget, #recent-posts>.recent-post-item, .layout_page>div:first-child:not(.recent-posts), .layout_post>#page, .layout_post>#post, .read-mode .layout_post>#post{
+    /* 以下代表透明度为0.8 */
+    background: rgba(255,255,255,.8);
+}
+/*侧边栏页面*/
+#aside-content>.card-widget  {
+    background: rgba(255,255,255,.8);
+}
+#aside-content>.sticky_layout>.card-widget{
+    background: rgba(255,255,255,.8);
+}
+/*文章页面*/
+.layout>#post{
+    background: rgba(255,255,255,.8);
+}
+/*分类页面*/
+.layout>#page{
+
+    background: rgba(255,255,255,.8);
+}
+/*时间轴页面*/
+.layout>#archive{
+    background: rgba(255,255,255,.8);
+}
