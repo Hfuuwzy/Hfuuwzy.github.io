@@ -8,3 +8,5 @@ https://hfuuwzy.github.io/music/index.html
 https://hfuuwzy.github.io/movies/index.html
 https://hfuuwzy.github.io/link/index.html
 https://hfuuwzy.github.io/
+https://hfuuwzy.github.io/tags/Linux/
+https://hfuuwzy.github.io/categories/Linux/
