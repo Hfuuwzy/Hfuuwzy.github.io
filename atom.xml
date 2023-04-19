@@ -6,7 +6,7 @@
   <link href="https://hfuuwzy.github.io/atom.xml" rel="self"/>
   
   <link href="https://hfuuwzy.github.io/"/>
-  <updated>2023-04-17T15:11:52.953Z</updated>
+  <updated>2023-04-17T15:12:38.316Z</updated>
   <id>https://hfuuwzy.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://hfuuwzy.github.io/2023/04/17/Linux%E6%93%8D%E4%BD%9C%E7%BD%91%E7%BB%9C/"/>
     <id>https://hfuuwzy.github.io/2023/04/17/Linux%E6%93%8D%E4%BD%9C%E7%BD%91%E7%BB%9C/</id>
     <published>2023-04-16T16:00:00.000Z</published>
-    <updated>2023-04-17T15:11:52.953Z</updated>
+    <updated>2023-04-17T15:12:38.316Z</updated>
     
     <content type="html"><![CDATA[<h3 id="使用-NetworkManager-工具来管理网络">使用 NetworkManager 工具来管理网络</h3><p>其在命令行下对应的命令是 nmcli，要连接WiFi，相关的命令如下：</p><h4 id="1）查看网络设备列表">1）查看网络设备列表</h4><p><strong>sudo nmcli dev</strong><br>注意，如果列出的设备状态全部是 unmanaged 的，说明这些网络设备不受NetworkManager管理，你需要清空 /etc/network/interfaces下的网络设置,然后重启.</p><h4 id="2）开启WiFi命令">2）开启WiFi命令</h4><p><strong>sudo nmcli r wifi on</strong></p><h4 id="3）扫描附近的-WiFi-热点">3）扫描附近的 WiFi 热点</h4><p><strong>sudo nmcli dev wifi</strong></p><h4 id="4）连接到指定的-WiFi-热点">4）连接到指定的 WiFi 热点</h4><p><strong>sudo nmcli dev wifi connect “SSID” password “PASSWORD” ifname wlan0</strong><br>请将 SSID和 PASSWORD 替换成实际的 WiFi名称和密码。</p>]]></content>
     
