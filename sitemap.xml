@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hfuuwzy.github.io/2023/04/20/MySQL%E5%9F%BA%E7%A1%80/</loc>
+    
+    <lastmod>2023-04-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hfuuwzy.github.io/2023/04/20/test/</loc>
     
     <lastmod>2023-04-20</lastmod>
@@ -98,10 +107,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://hfuuwzy.github.io/tags/Mysql/</loc>
+    <lastmod>2023-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
     <loc>https://hfuuwzy.github.io/categories/Linux/</loc>
+    <lastmod>2023-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hfuuwzy.github.io/categories/MySQL/</loc>
     <lastmod>2023-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

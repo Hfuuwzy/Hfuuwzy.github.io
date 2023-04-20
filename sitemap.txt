@@ -1,3 +1,4 @@
+https://hfuuwzy.github.io/2023/04/20/MySQL%E5%9F%BA%E7%A1%80/
 https://hfuuwzy.github.io/2023/04/20/test/
 https://hfuuwzy.github.io/2023/04/17/Linux%E6%93%8D%E4%BD%9C%E7%BD%91%E7%BB%9C/
 https://hfuuwzy.github.io/2023/04/14/2023-4-14-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/
@@ -9,4 +10,6 @@ https://hfuuwzy.github.io/movies/index.html
 https://hfuuwzy.github.io/link/index.html
 https://hfuuwzy.github.io/
 https://hfuuwzy.github.io/tags/Linux/
+https://hfuuwzy.github.io/tags/Mysql/
 https://hfuuwzy.github.io/categories/Linux/
+https://hfuuwzy.github.io/categories/MySQL/
