@@ -6,7 +6,7 @@
   <link href="https://hfuuwzy.github.io/atom.xml" rel="self"/>
   
   <link href="https://hfuuwzy.github.io/"/>
-  <updated>2023-04-19T11:59:30.469Z</updated>
+  <updated>2023-04-20T06:46:45.377Z</updated>
   <id>https://hfuuwzy.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Test文章</title>
+    <link href="https://hfuuwzy.github.io/2023/04/20/test/"/>
+    <id>https://hfuuwzy.github.io/2023/04/20/test/</id>
+    <published>2023-04-19T16:00:00.000Z</published>
+    <updated>2023-04-20T06:46:45.377Z</updated>
+    
+    <content type="html"><![CDATA[<h1>Test</h1><p>你是我的我是你的谁</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">class</span> <span class="title class_">test</span>()&#123;</span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title function_">main</span><span class="params">(String[] args)</span> &#123;</span><br><span class="line">        System.out.println(<span class="string">&quot;你好世界&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>结束战斗哈哈</p><h1>end</h1>    <div id="aplayer-YNWodnRy" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="000PeZCQ1i4XVs" data-server="tencent" data-type="artist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#3F51B5"    ></div>]]></content>
+    
+    
+    <summary type="html">实验室小白鼠</summary>
+    
+    
+    
+    <category term="Linux" scheme="https://hfuuwzy.github.io/categories/Linux/"/>
+    
+    
+    <category term="Linux" scheme="https://hfuuwzy.github.io/tags/Linux/"/>
+    
+  </entry>
   
   <entry>
     <title>使用 NetworkManager 工具来管理网络</title>
@@ -34,27 +55,6 @@
     
     
     <category term="Linux" scheme="https://hfuuwzy.github.io/tags/Linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="https://hfuuwzy.github.io/2023/04/14/test/"/>
-    <id>https://hfuuwzy.github.io/2023/04/14/test/</id>
-    <published>2023-04-14T07:26:20.866Z</published>
-    <updated>2023-04-15T12:25:48.009Z</updated>
-    
-    <content type="html"><![CDATA[<h1>Test</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1&gt;Test&lt;/h1&gt;
-</summary>
-      
-    
-    
-    
     
   </entry>
   
