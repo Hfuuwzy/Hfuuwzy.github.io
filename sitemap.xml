@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://hfuuwzy.github.io/2023/05/06/oursWorld/%E9%82%B5%E7%BA%AA%E6%9D%B0%E7%9A%84%E4%B8%96%E7%95%8C/</loc>
+    
+    <lastmod>2023-05-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hfuuwzy.github.io/photo/index.html</loc>
     
     <lastmod>2023-05-07</lastmod>
@@ -48,15 +57,6 @@
   
   <url>
     <loc>https://hfuuwzy.github.io/photo/school/index.html</loc>
-    
-    <lastmod>2023-05-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/2023/05/06/oursWorld/%E9%82%B5%E7%BA%AA%E6%9D%B0%E7%9A%84%E4%B8%96%E7%95%8C/</loc>
     
     <lastmod>2023-05-07</lastmod>
     
@@ -171,14 +171,14 @@
   </url>
   
   <url>
-    <loc>https://hfuuwzy.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://hfuuwzy.github.io/tags/Mysql/</loc>
     <lastmod>2023-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hfuuwzy.github.io/tags/Mysql/</loc>
+    <loc>https://hfuuwzy.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2023-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -194,14 +194,14 @@
   </url>
   
   <url>
-    <loc>https://hfuuwzy.github.io/categories/%E6%88%91%E4%BB%AC%E7%9A%84%E4%B8%96%E7%95%8C/</loc>
+    <loc>https://hfuuwzy.github.io/categories/MySQL/</loc>
     <lastmod>2023-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hfuuwzy.github.io/categories/MySQL/</loc>
+    <loc>https://hfuuwzy.github.io/categories/%E6%88%91%E4%BB%AC%E7%9A%84%E4%B8%96%E7%95%8C/</loc>
     <lastmod>2023-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
