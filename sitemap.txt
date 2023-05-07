@@ -17,8 +17,8 @@ https://hfuuwzy.github.io/music/index.html
 https://hfuuwzy.github.io/link/index.html
 https://hfuuwzy.github.io/
 https://hfuuwzy.github.io/tags/Linux/
-https://hfuuwzy.github.io/tags/Mysql/
 https://hfuuwzy.github.io/tags/%E7%94%9F%E6%B4%BB/
+https://hfuuwzy.github.io/tags/Mysql/
 https://hfuuwzy.github.io/categories/Linux/
-https://hfuuwzy.github.io/categories/MySQL/
 https://hfuuwzy.github.io/categories/%E6%88%91%E4%BB%AC%E7%9A%84%E4%B8%96%E7%95%8C/
+https://hfuuwzy.github.io/categories/MySQL/
