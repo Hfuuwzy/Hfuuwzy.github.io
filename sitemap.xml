@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hfuuwzy.github.io/2023/05/10/oursWorld/%E7%8E%8B%E5%AE%B6%E4%B9%90%E7%9A%84%E4%B8%96%E7%95%8C/</loc>
+    
+    <lastmod>2023-05-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hfuuwzy.github.io/photo/anime/index.html</loc>
     
     <lastmod>2023-05-12</lastmod>
@@ -14,15 +23,6 @@
     <loc>https://hfuuwzy.github.io/photo/school/index.html</loc>
     
     <lastmod>2023-05-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/2023/05/10/oursWorld/%E7%8E%8B%E5%AE%B6%E4%B9%90%E7%9A%84%E4%B8%96%E7%95%8C/</loc>
-    
-    <lastmod>2023-05-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -119,15 +119,6 @@
   </url>
   
   <url>
-    <loc>https://hfuuwzy.github.io/2023/04/20/test/</loc>
-    
-    <lastmod>2023-04-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hfuuwzy.github.io/tags/index.html</loc>
     
     <lastmod>2023-04-16</lastmod>
@@ -182,7 +173,7 @@
 
   
   <url>
-    <loc>https://hfuuwzy.github.io/tags/Linux/</loc>
+    <loc>https://hfuuwzy.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2023-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -196,7 +187,7 @@
   </url>
   
   <url>
-    <loc>https://hfuuwzy.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://hfuuwzy.github.io/tags/Linux/</loc>
     <lastmod>2023-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -205,7 +196,7 @@
 
   
   <url>
-    <loc>https://hfuuwzy.github.io/categories/Linux/</loc>
+    <loc>https://hfuuwzy.github.io/categories/%E6%88%91%E4%BB%AC%E7%9A%84%E4%B8%96%E7%95%8C/</loc>
     <lastmod>2023-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -219,7 +210,7 @@
   </url>
   
   <url>
-    <loc>https://hfuuwzy.github.io/categories/%E6%88%91%E4%BB%AC%E7%9A%84%E4%B8%96%E7%95%8C/</loc>
+    <loc>https://hfuuwzy.github.io/categories/Linux/</loc>
     <lastmod>2023-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
