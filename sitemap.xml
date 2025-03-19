@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hfuuwzy.github.io/2025/03/19/%E6%8A%80%E6%9C%AF/%E6%9C%89%E5%85%B3%E5%A4%8D%E8%AF%95/</loc>
+    
+    <lastmod>2025-03-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hfuuwzy.github.io/2023/04/20/%E6%8A%80%E6%9C%AF/MySQL%E5%9F%BA%E7%A1%80/</loc>
     
     <lastmod>2023-06-10</lastmod>
@@ -166,7 +175,7 @@
 
   <url>
     <loc>https://hfuuwzy.github.io/</loc>
-    <lastmod>2023-06-11</lastmod>
+    <lastmod>2025-03-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -174,21 +183,21 @@
   
   <url>
     <loc>https://hfuuwzy.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2023-06-11</lastmod>
+    <lastmod>2025-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hfuuwzy.github.io/tags/Linux/</loc>
-    <lastmod>2023-06-11</lastmod>
+    <lastmod>2025-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hfuuwzy.github.io/tags/Mysql/</loc>
-    <lastmod>2023-06-11</lastmod>
+    <lastmod>2025-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -197,21 +206,21 @@
   
   <url>
     <loc>https://hfuuwzy.github.io/categories/%E6%88%91%E4%BB%AC%E7%9A%84%E4%B8%96%E7%95%8C/</loc>
-    <lastmod>2023-06-11</lastmod>
+    <lastmod>2025-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hfuuwzy.github.io/categories/Linux/</loc>
-    <lastmod>2023-06-11</lastmod>
+    <lastmod>2025-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hfuuwzy.github.io/categories/MySQL/</loc>
-    <lastmod>2023-06-11</lastmod>
+    <lastmod>2025-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
