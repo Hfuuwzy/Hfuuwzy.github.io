@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hfuuwzy.github.io/2026/03/10/second_report/</loc>
+    
+    <lastmod>2026-03-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hfuuwzy.github.io/2026/03/10/first_report/</loc>
+    
+    <lastmod>2026-03-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hfuuwzy.github.io/2023/05/04/wang-chaoyang-world/</loc>
     
     <lastmod>2026-03-10</lastmod>
@@ -837,6 +855,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://hfuuwzy.github.io/tags/%E5%91%A8%E6%8A%A5/</loc>
+    <lastmod>2026-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -869,6 +894,13 @@
   
   <url>
     <loc>https://hfuuwzy.github.io/categories/MySQL/</loc>
+    <lastmod>2026-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hfuuwzy.github.io/categories/%E5%AD%A6%E6%9C%AF/</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
