@@ -2,34 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hfuuwzy.github.io/2023/05/06/shao-jijie-world/</loc>
-    
-    <lastmod>2026-03-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/2023/05/10/li-chaoye-world/</loc>
-    
-    <lastmod>2026-03-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/2023/05/10/wang-jiale-world/</loc>
-    
-    <lastmod>2026-03-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hfuuwzy.github.io/2023/05/04/wang-chaoyang-world/</loc>
+    
+    <lastmod>2026-03-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hfuuwzy.github.io/photo/anime/index.html</loc>
+    
+    <lastmod>2026-03-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hfuuwzy.github.io/2026/03/10/test/</loc>
     
     <lastmod>2026-03-10</lastmod>
     
@@ -632,7 +623,7 @@
   </url>
   
   <url>
-    <loc>https://hfuuwzy.github.io/custom/widgets/live2d/api/model/ShizukuTalk/shizuku-48/expressions/f02.exp.json</loc>
+    <loc>https://hfuuwzy.github.io/custom/widgets/live2d/api/model/ShizukuTalk/shizuku-48/expressions/f01.exp.json</loc>
     
     <lastmod>2026-03-09</lastmod>
     
@@ -641,7 +632,7 @@
   </url>
   
   <url>
-    <loc>https://hfuuwzy.github.io/custom/widgets/live2d/api/model/ShizukuTalk/shizuku-48/expressions/f01.exp.json</loc>
+    <loc>https://hfuuwzy.github.io/custom/widgets/live2d/api/model/ShizukuTalk/shizuku-48/expressions/f02.exp.json</loc>
     
     <lastmod>2026-03-09</lastmod>
     
@@ -722,34 +713,7 @@
   </url>
   
   <url>
-    <loc>https://hfuuwzy.github.io/custom/widgets/live2d/api/README.html</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hfuuwzy.github.io/custom/widgets/live2d/api/model_list.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/custom/widgets/live2d/widget/package.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/custom/widgets/live2d/widget/README.html</loc>
     
     <lastmod>2026-03-09</lastmod>
     
@@ -761,708 +725,6 @@
     <loc>https://hfuuwzy.github.io/custom/widgets/live2d/widget/waifu-tips.json</loc>
     
     <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/custom/widgets/live2d/widget/demo/login.html</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/custom/widgets/live2d/widget/demo/demo.html</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/nepgear_extra/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/nepgear_extra/physics.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/histoire/physics.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/histoire/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/general/pose.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/blanc_swimwear/physics.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/blanc_swimwear/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/blanc_normal/physics.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/blanc_normal/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/blanc_classic/physics.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/blanc_classic/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/histoirenohover/physics.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/histoirenohover/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/nepgear/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/nepgear/physics.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/vert_swimwear/physics.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/vert_swimwear/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/vert_normal/physics.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/vert_normal/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/vert_classic/physics.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/vert_classic/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/noireswim/physics.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/noireswim/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/noir_santa/physics.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/noir_santa/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/noir_classic/physics.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/noir_classic/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/noir/physics.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/noir/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/neptune_santa/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/neptune_classic/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/nepswim/physics.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/nepswim/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/nepnep/physics.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/nepnep/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/nepnep/general/pose.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/unhappy.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/normal.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/kira.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/happy.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/enjoy.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/nepnep/general/exp/deformed.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/nepmaid/physics.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/nepmaid/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/nepgearswim/physics.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/HyperdimensionNeptunia/nepgearswim/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/ShizukuTalk/shizuku-pajama/pose.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/ShizukuTalk/shizuku-pajama/physics.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/ShizukuTalk/shizuku-pajama/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/ShizukuTalk/shizuku-pajama/expressions/f04.exp.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/ShizukuTalk/shizuku-pajama/expressions/f03.exp.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/ShizukuTalk/shizuku-pajama/expressions/f02.exp.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/ShizukuTalk/shizuku-pajama/expressions/f01.exp.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/ShizukuTalk/shizuku-48/pose.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/ShizukuTalk/shizuku-48/physics.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/ShizukuTalk/shizuku-48/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/ShizukuTalk/shizuku-48/expressions/f04.exp.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/ShizukuTalk/shizuku-48/expressions/f03.exp.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/ShizukuTalk/shizuku-48/expressions/f02.exp.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/ShizukuTalk/shizuku-48/expressions/f01.exp.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/Potion-Maker/Tia/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/Potion-Maker/Pio/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/KantaiCollection/murakumo/physics.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/KantaiCollection/murakumo/index.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/KantaiCollection/murakumo/expressions/f04.exp.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/KantaiCollection/murakumo/expressions/f03.exp.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/KantaiCollection/murakumo/expressions/f02.exp.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model/KantaiCollection/murakumo/expressions/f01.exp.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/README.html</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d_api/model_list.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d-widget-master/package.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d-widget-master/README.html</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d-widget-master/waifu-tips.json</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d-widget-master/demo/login.html</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/live2d-widget-master/demo/demo.html</loc>
-    
-    <lastmod>2026-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/photo/anime/index.html</loc>
-    
-    <lastmod>2023-05-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1541,7 +803,14 @@
 
   
   <url>
-    <loc>https://hfuuwzy.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://hfuuwzy.github.io/tags/LLMs/</loc>
+    <lastmod>2026-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hfuuwzy.github.io/tags/Linux/</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1555,14 +824,14 @@
   </url>
   
   <url>
-    <loc>https://hfuuwzy.github.io/tags/Mysql/</loc>
+    <loc>https://hfuuwzy.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hfuuwzy.github.io/tags/Linux/</loc>
+    <loc>https://hfuuwzy.github.io/tags/Mysql/</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1571,7 +840,14 @@
 
   
   <url>
-    <loc>https://hfuuwzy.github.io/categories/%E6%88%91%E4%BB%AC%E7%9A%84%E4%B8%96%E7%95%8C/</loc>
+    <loc>https://hfuuwzy.github.io/categories/AI/</loc>
+    <lastmod>2026-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://hfuuwzy.github.io/categories/Linux/</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1585,14 +861,14 @@
   </url>
   
   <url>
-    <loc>https://hfuuwzy.github.io/categories/MySQL/</loc>
+    <loc>https://hfuuwzy.github.io/categories/%E6%88%91%E4%BB%AC%E7%9A%84%E4%B8%96%E7%95%8C/</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hfuuwzy.github.io/categories/Linux/</loc>
+    <loc>https://hfuuwzy.github.io/categories/MySQL/</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
