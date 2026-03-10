@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>依赖升级测试笔记</title>
+      <link href="/2026/03/10/%E6%8A%80%E6%9C%AF/%E4%BE%9D%E8%B5%96%E5%8D%87%E7%BA%A7%E6%B5%8B%E8%AF%95%E7%AC%94%E8%AE%B0/"/>
+      <url>/2026/03/10/%E6%8A%80%E6%9C%AF/%E4%BE%9D%E8%B5%96%E5%8D%87%E7%BA%A7%E6%B5%8B%E8%AF%95%E7%AC%94%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<h1>升级测试</h1><p>这是一篇用于验证升级后站点是否正常生成与展示的测试文章。</p><ul><li>Hexo 已升级到 8.x</li><li>Butterfly 已升级到 5.x</li><li>当前文章目录已经恢复到 <code>source/_posts/</code></li></ul><p>如果你能在本地或线上看到这篇文章，说明当前文章生成链路是通的。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/2025/03/19/%E6%8A%80%E6%9C%AF/%E6%9C%89%E5%85%B3%E5%A4%8D%E8%AF%95/"/>
       <url>/2025/03/19/%E6%8A%80%E6%9C%AF/%E6%9C%89%E5%85%B3%E5%A4%8D%E8%AF%95/</url>
