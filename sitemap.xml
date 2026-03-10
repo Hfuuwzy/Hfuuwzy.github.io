@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hfuuwzy.github.io/2026/03/10/second_report/</loc>
+    <loc>https://hfuuwzy.github.io/2026/01/18/second_report/</loc>
     
     <lastmod>2026-03-10</lastmod>
     
@@ -11,7 +11,25 @@
   </url>
   
   <url>
-    <loc>https://hfuuwzy.github.io/2026/03/10/first_report/</loc>
+    <loc>https://hfuuwzy.github.io/2026/01/18/first_report/</loc>
+    
+    <lastmod>2026-03-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hfuuwzy.github.io/photo/index.html</loc>
+    
+    <lastmod>2026-03-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hfuuwzy.github.io/2026/03/10/dependency-upgrade-test/</loc>
     
     <lastmod>2026-03-10</lastmod>
     
@@ -21,24 +39,6 @@
   
   <url>
     <loc>https://hfuuwzy.github.io/2023/05/04/wang-chaoyang-world/</loc>
-    
-    <lastmod>2026-03-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/photo/anime/index.html</loc>
-    
-    <lastmod>2026-03-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hfuuwzy.github.io/2026/03/10/test/</loc>
     
     <lastmod>2026-03-10</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://hfuuwzy.github.io/2025/03/19/reexamination-notes/</loc>
+    <loc>https://hfuuwzy.github.io/photo/anime/index.html</loc>
     
     <lastmod>2026-03-10</lastmod>
     
@@ -83,7 +83,16 @@
   </url>
   
   <url>
-    <loc>https://hfuuwzy.github.io/2026/03/10/dependency-upgrade-test/</loc>
+    <loc>https://hfuuwzy.github.io/2026/03/10/test/</loc>
+    
+    <lastmod>2026-03-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hfuuwzy.github.io/2025/03/19/reexamination-notes/</loc>
     
     <lastmod>2026-03-10</lastmod>
     
@@ -641,7 +650,7 @@
   </url>
   
   <url>
-    <loc>https://hfuuwzy.github.io/custom/widgets/live2d/api/model/ShizukuTalk/shizuku-48/expressions/f01.exp.json</loc>
+    <loc>https://hfuuwzy.github.io/custom/widgets/live2d/api/model/ShizukuTalk/shizuku-48/expressions/f02.exp.json</loc>
     
     <lastmod>2026-03-09</lastmod>
     
@@ -650,7 +659,7 @@
   </url>
   
   <url>
-    <loc>https://hfuuwzy.github.io/custom/widgets/live2d/api/model/ShizukuTalk/shizuku-48/expressions/f02.exp.json</loc>
+    <loc>https://hfuuwzy.github.io/custom/widgets/live2d/api/model/ShizukuTalk/shizuku-48/expressions/f01.exp.json</loc>
     
     <lastmod>2026-03-09</lastmod>
     
@@ -776,15 +785,6 @@
   </url>
   
   <url>
-    <loc>https://hfuuwzy.github.io/photo/index.html</loc>
-    
-    <lastmod>2023-05-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hfuuwzy.github.io/movies/index.html</loc>
     
     <lastmod>2023-05-06</lastmod>
@@ -835,14 +835,14 @@
   </url>
   
   <url>
-    <loc>https://hfuuwzy.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://hfuuwzy.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hfuuwzy.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://hfuuwzy.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -879,14 +879,14 @@
   </url>
   
   <url>
-    <loc>https://hfuuwzy.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>https://hfuuwzy.github.io/categories/%E6%88%91%E4%BB%AC%E7%9A%84%E4%B8%96%E7%95%8C/</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hfuuwzy.github.io/categories/%E6%88%91%E4%BB%AC%E7%9A%84%E4%B8%96%E7%95%8C/</loc>
+    <loc>https://hfuuwzy.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
