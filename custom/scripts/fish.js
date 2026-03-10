@@ -3,17 +3,18 @@
   var script
 
   function appendFishEffect() {
-    var footerWrap = document.getElementById("footer-wrap")
     var footer = document.querySelector("footer")
+    var footerOther = document.querySelector("#footer .footer-other")
 
-    if (!footerWrap || !footer) return
+    if (!footer) return
 
-    footerWrap.style.position = "absolute"
-    footerWrap.style.textAlign = "center"
-    footerWrap.style.top = 0
-    footerWrap.style.right = 0
-    footerWrap.style.left = 0
-    footerWrap.style.bottom = 0
+    footer.style.position = "relative"
+
+    if (footerOther) {
+      footerOther.style.position = "relative"
+      footerOther.style.zIndex = "2"
+      footerOther.style.textAlign = "center"
+    }
 
     if (!document.getElementById("jsi-flying-fish-container")) {
       container = document.createElement("div")

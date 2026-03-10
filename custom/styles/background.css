@@ -104,13 +104,13 @@ img {
     background-color: #49b1f5;
 }
 
-#aside_content
+#aside-content
 .card-archives
 ul.card-archive-list
 > .card-archive-list-item
 a
 span:first-child,
-#aside_content
+#aside-content
 .card-categories
 ul.card-category-list
 > .card-category-list-item
@@ -256,8 +256,8 @@ span:first-child {
     color: inherit;
 }
 
-#footer-wrap,
-#footer-wrap a {
+#footer,
+#footer a {
     color: #fff;
 }
 
